@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/AstrodiR2/BestBloxFruitSoft/main/BestOnBloxSofts"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AstrodiR2/BestBloxFruitSoft/main/BestOnBloxSofts?cache="..tostring(os.time()), true))()
